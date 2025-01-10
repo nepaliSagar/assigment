@@ -64,33 +64,3 @@ while True:
             exitProgram()
     except ValueError:
         print("\nInvalid input. Please enter an integer between 1 and 5.\n")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
